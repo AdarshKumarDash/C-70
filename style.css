@@ -47,3 +47,23 @@ html {
 .div_text span {
     color: yellow;
 }
+
+.book_div {
+    cursor: pointer;
+}
+
+.book_div hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.modal-body img {
+    display: inline-block;
+}
